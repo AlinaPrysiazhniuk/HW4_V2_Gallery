@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW4_V2_Gallery/static/css/main.56e2f675.css",
+    "main.js": "/HW4_V2_Gallery/static/js/main.bf6f238b.js",
+    "index.html": "/HW4_V2_Gallery/index.html",
+    "main.56e2f675.css.map": "/HW4_V2_Gallery/static/css/main.56e2f675.css.map",
+    "main.bf6f238b.js.map": "/HW4_V2_Gallery/static/js/main.bf6f238b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e2f675.css",
+    "static/js/main.bf6f238b.js"
+  ]
+}
