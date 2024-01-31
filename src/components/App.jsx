@@ -1,9 +1,10 @@
+/* eslint-disable no-unused-vars */
 import { useState, useEffect } from 'react';
 import Searchbar from './Searchbar/Searchbar';
 import { fetchImages } from './SearchImage/SearchImage';
 import ImageGallery from './ImageGallery/ImageGallery';
 import { Button } from './Button/Button';
-import { Modal } from './Modal/Modal';
+import Modal from './Modal/Modal';
 import { Loader } from './Loader/Loader';
 import { animateScroll } from 'react-scroll';
 
